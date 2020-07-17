@@ -1,0 +1,114 @@
+DS1T - Sistemas Operacionais
+Prof. Luiz Antonio
+----------------------------------------------------------------------------------------
+
+
+Avaliação Somativa Integrada entre Sistemas Operacionais (Prof. Luiz) e Hardware e Redes (Prof. Leonid)
+
+
+Alunos deverão formar grupos de 8 pessoas e cada gurpo irá elaborar um site que deverá explicar cada um dos ítens da disciplina de Sistemas Operacionais como um tutorial ou manual técnico semelhante ao já realizado para Virtual Box.
+
+Este site será apresentado na disciplina do Prof Leonid (Hardware e Redes), a integração prevê programação remota utilizando GITHUB e publicação na nuvem em AWS.
+
+
+Os critérios de avaliação.
+
+
+Tópicos de Sistemas Operacionais
+
+1. Arquitetura dos sistemas operacionais (Michel - Pagina 1)
+1.1. Definição 
+1.2. Histórico 
+1.3. Classificação 
+1.3.1. Monotarefa 
+1.3.2. Multitarefa 
+1.4. Gerenciador de processos 
+1.5. Sistemas de arquivos 
+
+2. Sistema operacional código fechado (Marcos - Pagina 2)
+2.1. Definição 
+2.2. Modo texto (linha de comando) 
+2.2.1. Navegação entre diretórios 
+2.2.2. Criação de diretórios e arquivos 
+2.2.3. Exclusão de diretórios e arquivos 
+2.2.4. Renomeação de diretórios e arquivos 
+2.2.5. Movimentação de diretórios e arquivos 
+2.2.6. Cópia de diretórios e arquivos 
+2.2.7. Edição de arquivos 
+2.3. Modo gráfico (Interface gráfica) 
+2.3.1. Área de trabalho 
+2.3.2. Trabalho com janelas 
+2.3.3. Configuração do sistema 
+2.3.4. Ferramentas do sistema 
+2.3.5. Acessórios 
+2.3.6. Menu de ajuda 
+2.3.7. Gerenciamento de arquivos 
+2.3.8. Gerenciamento de usuários e permissões 
+2.4. Níveis de inicialização e finalização 
+2.5. Instalação na máquina virtual 
+2.5.1. Pacotes 
+2.5.2. Atualização 
+2.5.3. Programas 
+
+3. Sistemas operacional código aberto (Matheus - Pagina 3)
+3.1. Definição 
+3.2. Modo texto (linha de comando) 
+3.2.1. Navegação entre diretórios 
+3.2.2. Criação de diretórios e arquivos 
+3.2.3. Exclusão de diretórios e arquivos 
+3.2.4. Renomeação de diretórios e arquivos 
+3.2.5. Movimentação de diretórios e arquivos 
+3.2.6. Cópia de diretórios e arquivos 
+3.2.7. Edição de arquivos 
+3.3. Modo gráfico (interface gráfica) 
+3.3.1. Área de trabalho 
+3.3.2. Trabalho com janelas 
+3.3.3. Configuração do sistema 
+3.3.4. Ferramentas do sistema 
+3.3.5. Acessórios 
+3.3.6. Menu de ajuda 
+3.3.7. Gerenciamento de arquivos 
+3.3.8. Gerenciamento de usuários e permissões 
+3.4. Níveis de inicialização e finalização 
+3.5. Instalação na máquina virtual 
+3.5.1. Pacotes 
+3.5.2. Atualização 
+3.5.3. Programas
+
+4. Editor de texto (Michael - Word Pagina 4)
+4.1. Formatação de: 
+4.1.1. Fonte 
+4.1.2. Parágrafo 
+4.1.3. Tabulação 
+4.1.4. Colunas 
+4.1.5. Maiúsculas e minúsculas 
+4.2. Inserção de: 
+4.2.1. Quebra 
+4.2.2. Número de páginas 
+4.2.3. Anotações 
+4.2.4. Arquivo 
+4.2.5. Planilha 
+4.2.6. Tabela 
+4.2.7. Figura 
+4.2.8. Marcadores 
+4.2.9. Cabeçalho e rodapé 
+4.2.10. Sumário 
+4.2.11. Índice de ilustrações 
+4.3. Verificação de ortografia 
+4.4. Impressão de arquivos 
+
+5. Planilha eletrônica (Vinicius - Pagina 6)
+5.1. Criação de planilhas 
+5.2. Formatação de células 
+5.3. Entrada de dados 
+5.3.1. Números 
+5.3.2. Textos 
+5.3.3. Fórmulas 
+5.4. Funções 
+5.4.1. Aritméticas 
+5.4.2. Condicionais 
+5.5. Criação de gráficos 
+5.6. Impressão 
+
+
+Fonte usada no projeto: Verlag;
